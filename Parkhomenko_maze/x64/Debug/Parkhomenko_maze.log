@@ -1,0 +1,71 @@
+﻿  GameOver.cpp
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\GameOver.cpp(16,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\GameOver.cpp(16,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+  MainMenu.cpp
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\MainMenu.cpp(15,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\MainMenu.cpp(15,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\MainMenu.cpp(20,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\MainMenu.cpp(25,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Object.h
+  state.cpp
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\Benny.h(22,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\Benny.h(23,66): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\state.cpp(113,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\state.cpp(131,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\state.cpp(131,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\state.cpp(145,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\state.cpp(150,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Win.cpp
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\Win.cpp(16,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Nastya\source\repos\Maze_repo\maze\Parkhomenko_maze\Win.cpp(16,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
